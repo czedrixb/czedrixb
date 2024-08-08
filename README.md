@@ -7,7 +7,13 @@
 
 - 📫 How to reach me **czedrixb@gmail.com**
 
-- ⚡ Fun fact **.....**
+<h3 align="center">My go to playlist:</h3>
+
+ <iframe loading="lazy" style="border-radius:12px"
+        src="https://open.spotify.com/embed/album/1bwbZJ6khPJyVpOaqgKsoZ?utm_source=generator&theme=0"
+        width="100%" height="352" frameBorder="0" allowfullscreen=""
+        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+        loading="lazy"></iframe>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
