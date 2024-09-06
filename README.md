@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=czedrixb&label=Profile%20views&color=0e75b6&style=flat" alt="czedrixb" /> </p>
 
-- 🌱 I’m currently learning **Nuxt**
+- 🌱 I’m currently learning **Tall Stack**
 
 - 📫 How to reach me **czedrixb@gmail.com**
 
