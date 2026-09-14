@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=czedrixb&label=Profile%20views&color=0e75b6&style=flat" alt="czedrixb" /> </p>
 
-- 🌱 I’m currently learning **Tall Stack**
+- 🌱 I’m currently learning RAG Pipeline and AI automation
 
 - 👯 I’m looking to collaborate on **For any project**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-five-rho-11.vercel.app/](https://my-portfolio-five-rho-11.vercel.app/)
-
-- 💬 Ask me about **Laravel**
 
 - 📫 How to reach me **czedrixb@gmail.com**
 
