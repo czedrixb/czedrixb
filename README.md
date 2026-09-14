@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **czedrixb@gmail.com**
 
-- 📄 Know about my experiences [[https://my-portfolio-five-rho-11.vercel.app/pdf/CZEDRIX-BARCENA-RESUME-2024.pdf](https://my-portfolio-five-rho-11.vercel.app/pdf/RESUME-2025-CZEDRIX-BARCENA.pdf)]([https://my-portfolio-five-rho-11.vercel.app/pdf/CZEDRIX-BARCENA-RESUME-2024.pdf](https://my-portfolio-five-rho-11.vercel.app/pdf/RESUME-2025-CZEDRIX-BARCENA.pdf))
+- 📄 Know about my experiences https://my-portfolio-five-rho-11.vercel.app/pdf/RESUME-2025-CZEDRIX-BARCENA.pdf
 
 - ⚡ Fun fact **I'm eager to learn**
 
